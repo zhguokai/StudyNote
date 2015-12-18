@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"er",
+				"errCode"
+			],
+			[
+				"w",
+				"wxapi"
+			],
+			[
+				"tar",
+				"target-dir"
+			],
+			[
+				"Pay",
+				"pay"
+			],
+			[
+				"rs",
+				"rsa_private"
+			],
+			[
+				"noti",
+				"notifyUrl"
+			],
+			[
+				"no",
+				"notifyUrl"
+			],
+			[
+				"wx",
+				"WxPay"
+			],
+			[
+				"al",
+				"AlipayPay"
+			],
+			[
+				"chec",
+				"checkArgs"
+			],
+			[
+				"NS",
+				"NSString"
+			],
+			[
+				"pa",
+				"payType"
+			],
+			[
+				"obj",
+				"objectForKey"
+			],
+			[
+				"_",
+				"_rsa_private"
+			],
+			[
+				"se",
+				"seller_p"
+			],
+			[
+				"a",
+				"ApliyPay"
+			],
+			[
+				"Ns",
+				"NSDictionary"
+			],
+			[
+				"or",
+				"orderInfoArgs"
+			],
+			[
+				"p",
+				"partner"
+			],
+			[
+				"tr",
+				"tradeNo"
+			],
+			[
+				"pay",
+				"payType"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "package install",
+		"selected_items":
+		[
+			[
+				"package install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/kuajie/GitHub/StudyNote",
+		"/Users/kuajie/GitHub/StudyNote/01Markdown",
+		"/Users/kuajie/GitHub/StudyNote/PythonNote"
+	],
+	"file_history":
+	[
+		"/Users/kuajie/GitHub/StudyNote/study",
+		"/Users/kuajie/CODE/dhw_server/apps/pc/sotre/goods/membergoods_serv.py",
+		"/Users/kuajie/Downloads/ExampleApp.html.重命名",
+		"/private/var/folders/nf/lh5fgwbj1ks2vtw8kbh9w_gc0000gn/T/fz3temp-1/database 2.php",
+		"/private/var/folders/nf/lh5fgwbj1ks2vtw8kbh9w_gc0000gn/T/fz3temp-1/database.php",
+		"/private/var/folders/nf/lh5fgwbj1ks2vtw8kbh9w_gc0000gn/T/fz3temp-1/DB.php",
+		"/Users/kuajie/work/更新记录/dhw_db_v1.1.sql",
+		"/Users/kuajie/Downloads/dhw_member_goods.sql",
+		"/Users/kuajie/Downloads/dhw_config.sql",
+		"/Users/kuajie/work/更新记录/dhw_db_v1.2.sql",
+		"/Users/kuajie/CODE/dhw_app/platforms/android/build.gradle",
+		"/Users/kuajie/CODE/com.kbt.activity/project.properties",
+		"/Users/kuajie/ReactNative/Demo/index.ios.js",
+		"/Users/kuajie/CODE/Gubentang/index.html",
+		"/Users/kuajie/CODE/dhw_server/config.ini",
+		"/Users/kuajie/CODE/demo/plugins/cordova-plugin-whitelist/plugin.xml",
+		"/Users/kuajie/lib/plugins/cordova.plugin.share/plugin.xml",
+		"/Users/kuajie/CODE/IosDemo/platforms/ios/www/templates/tab-dash.html",
+		"/Users/kuajie/lib/plugins/cordova.plugin.pay/src/ios/CDVAlipay.h",
+		"/Users/kuajie/CODE/payDemo/www/templates/tab-dash.html",
+		"/Users/kuajie/lib/plugins/cordova.plugin.pay/src/ios/CDVAlipay.m",
+		"/Users/kuajie/CODE/PayWxAl/www/templates/tab-dash.html",
+		"/Users/kuajie/CODE/PayWxAl/www/js/controllers.js",
+		"/Users/kuajie/CODE/PayWxAl/config.xml",
+		"/Users/kuajie/lib/plugins/cordova.plugin.pay/plugin.xml",
+		"/Users/kuajie/CODE/KBT_ANDRIOD/AndroidManifest.xml",
+		"/Users/kuajie/CODE/WxPay/config.xml",
+		"/Users/kuajie/Downloads/wx_pay/src/com/kbt/activity/PayActivity.java",
+		"/Users/kuajie/Downloads/wx_pay(1)/src/com/kbt/activity/PayActivity.java",
+		"/Users/kuajie/lib/plugins/org.xrhh.cordova.pay/readme.md",
+		"/Users/kuajie/lib/cordova-alipay/com.yoopoon.cordova.plugin.alipay/plugin.xml",
+		"/Users/kuajie/lib/plugins/org.xrhh.cordova.pay/src/ios/CDVAPayUtil.m",
+		"/Users/kuajie/lib/plugins/org.xrhh.cordova.pay/src/ios/CDVAPayUtil.h",
+		"/Users/kuajie/lib/plugins/org.xrhh.cordova.pay/src/ios/PayConfig.h",
+		"/Users/kuajie/lib/plugins/org.xrhh.cordova.pay/src/ios/PayConfig.m",
+		"/Users/kuajie/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/kuajie/lib/plugins/org.xrhh.cordova.pay/src/ios/AlipayUtil.h",
+		"/Users/kuajie/lib/plugins/org.xrhh.cordova.pay/src/ios/AlipayUtil.m",
+		"/Users/kuajie/lib/plugins/org.xrhh.cordova.pay/plugin.xml",
+		"/Users/kuajie/lib/cordova-alipay/com.yoopoon.cordova.plugin.alipay/src/ios/CDVAlipay.m",
+		"/Users/kuajie/lib/org.xrhh.pay.cordova/src/android/org/xrhh/cordova/pay/PayUtil.java",
+		"/Users/kuajie/lib/org.xrhh.pay.cordova/www/payUtil.js",
+		"/Users/kuajie/lib/org.xrhh.pay.cordova/src/android/org/xrhh/cordova/pay/ApliyUtil.java",
+		"/Users/kuajie/lib/org.xrhh.pay.cordova/src/android/org/xrhh/cordova/pay/Base64.java",
+		"/Users/kuajie/lib/org.xrhh.pay.cordova/plugin.xml",
+		"/Users/kuajie/lib/org.xrhh.pay.cordova/src/android/org/xrhh/cordova/pay/PayResult.java",
+		"/Users/kuajie/lib/CorDemo/src/android/myToast.java",
+		"/Users/kuajie/Desktop/KBT_IOS/.gitignore",
+		"/Users/kuajie/Downloads/android 底部导航栏-2/ActivityGroupProject/project.properties",
+		"/Applications/IntelliJ IDEA 14.app/Contents/bin/idea.vmoptions",
+		"/Users/kuajie/Downloads/MyViewPager/res/layout/view1.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mobile",
+			"wrap",
+			"libs",
+			"lib",
+			"user_mobile",
+			"toast",
+			"signutil",
+			"payconfig",
+			"partner",
+			"error"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "study.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
